@@ -19,7 +19,7 @@ All experimental scripts and initial data processing should be developed here be
 To handle the large-scale DataFest datasets, we are prioritizing **algorithmic efficiency**:
 
 - **Time Complexity**  
-  Avoid $O(n^2)$ loops; utilize HashMaps and optimized sorting ($O(n \log n)$) where possible.
+  Avoid $O(n^2)$ loops; utilize HashMaps and optimized sorting ($O(n\log n)$) where possible.
 
 - **Memory Management**  
   Efficiently **stream** large CSV files rather than loading entire sets into memory when unnecessary.
