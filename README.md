@@ -16,7 +16,9 @@ Welcome to the official repository for **Project 404**. This project is dedicate
 | **Rodney** | Team Lead / Admin | C++, Python |
 | **Damian** | Core Developer | C++, Java II, Python |
 | **Ankita** | Quality Assurance & Testing | C++, Java I |
-| **Ivan** | [Awaiting Role Confirmation] | [TBD] |
+| **Ivan** | Database Lead & Researcher | C++, SQL/DB Management, Excel (White Belt) |
+
+---
 
 ---
 
