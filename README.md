@@ -12,14 +12,14 @@ All experimental scripts and initial data processing should be developed here be
   Used for active development and peer review.
 
 - **Folder Protocol**  
-  Work **must** stay within your assigned subfolder in `/scripts/` to prevent merge conflicts.
+  Work **must** stay within your assigned subfolder in `scripts/` to prevent merge conflicts.
 
 ## ⚖️ Performance Standards (CIS 2207)
 
 To handle the large-scale DataFest datasets, we are prioritizing **algorithmic efficiency**:
 
 - **Time Complexity**  
-  Avoid $O(n^2)$ loops; utilize HashMaps and optimized sorting ($O(n\log n)$) where possible.
+  Avoid $O(n^2)$ loops; utilize HashMaps and optimized sorting $O(n \ log n)$ where possible.
 
 - **Memory Management**  
   Efficiently **stream** large CSV files rather than loading entire sets into memory when unnecessary.
