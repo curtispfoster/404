@@ -20,13 +20,11 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 
 ---
 
----
-
 ## 📂 Repository Structure
 * 📁 **`/data`**: Data dictionaries and small samples (managed via `.gitkeep`).
 * 📁 **`/scripts`**: Python source code for analysis and cleaning.
-* 📁 **`/docs`**: Competition rules, FAQ, and presentation drafts.
-* 📁 **`/output`**: Final visualizations and cleaned datasets.
+* 📁 **`/docs`**: Datafest Info and Sample Timeline
+
 
 ---
 
@@ -45,4 +43,4 @@ To ensure we place well, we are adhering to the following "Efficiency First" gui
 * **Mar 27:** **Competition Kick-off.**
 
 ---
-> *404 - Doesn't mean we lost our dataset file*
+> *404 - Doesn't mean we lost our dataset file...*
