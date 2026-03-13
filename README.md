@@ -9,14 +9,24 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 
 ---
 
-## 👥 The Team
-| Name | Primary Focus | Technical Stack |
-| :--- | :--- | :--- |
-| **Curtis** | Technical PM / Lead Architect | C++, Java II, Data Structures & Algorithms |
-| **Rodney** | Team Lead / Admin | C++, Python |
-| **Damian** | Core Developer | C++, Java II, Python |
-| **Ankita** | Quality Assurance & Testing | C++, Java I |
-| **Ivan** | Database Lead & Researcher | C++, SQL/DB Management, Excel (White Belt) |
+# 👥 The Team
+
+Here's the current team roster for the DataFest project, including backgrounds, tech stacks, and assigned competition roles:
+
+| Name    | Background / Stack                          | Competition Role          |
+|---------|---------------------------------------------|---------------------------|
+| Curtis  | Technical PM / Lead Architect               | Core Logic & Review       |
+| Rodney  | C++, Python                                 | [TBD]                     |
+| Damian  | C++, Java II, Python                        | [TBD]                     |
+| Ankita  | C++, Java I                                 | [TBD]                     |
+| Ivan    | C++, SQL/DB Management, Excel               | [TBD]                     |
+
+### Quick Notes
+- **Curtis** is handling overall architecture, core pipeline logic, code review, and merge approvals from the feature branch.
+- Remaining roles are still **To Be Determined (TBD)** — we can assign specific responsibilities (e.g., data ingestion, cleaning, visualization, modeling, presentation scripting).
+- Everyone has strong C++ fundamentals, with varying levels of Python/Java experience — perfect for flexibility in data processing and scripting.
+
+Feel free to update this table as roles solidify or if anyone wants to claim specific pieces (e.g., "I'll take data cleaning & null handling", "I'll handle visualizations in matplotlib/seaborn", etc.).
 
 ---
 
@@ -24,7 +34,6 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 * 📁 **`/data`**: Data dictionaries and small samples (managed via `.gitkeep`).
 * 📁 **`/scripts`**: Python source code for analysis and cleaning.
 * 📁 **`/docs`**: Datafest Info and Sample Timeline
-
 
 ---
 
