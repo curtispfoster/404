@@ -1,23 +1,46 @@
-# 404 | DataFest 2026
+# 🚀 Project 404 | DataFest 2026
 
-## 🚀 Project Overview
-This repository serves as the central hub for our 48-hour data sprint. We focus on transforming complex, large-scale datasets into actionable insights through efficient algorithmic design and robust data architecture.
+Welcome to the official repository for **Project 404**. This project is dedicated to high-efficiency data analysis and discovery for the 2026 DataFest competition.
 
-## 👥 The Team & Skillsets
-* **Rodney (Team Lead):** Administration, C++, & Python Development.
-* **Curtis (Technical PM):** Algorithm Design, Efficiency Logic (CIS 2207 - DSA), & Roadmap Management.
-* **Damian:** Core Scripting (Java II, C++, Python).
-* **Ivan:** Data Architecture, Database Management, & Excel Validation (Microsoft Certified).
-* **Ankita:** Quality Assurance, Logic Testing (C++, Java I), & Documentation.
+## 🚩 Milestone: Registration
+* **Status:** ✅ CONFIRMED
+* **Confirmation:** Submitted March 13, 2026.
+* **Next Goal:** Environment "Dry Run" & Folder Verification.
 
-## 🛠 Technical Strategy
-To ensure a high-placing entry, our workflow is divided by technical specialty:
-* **Preprocessing (Curtis/Ivan):** Utilizing Database Management and Data Structures to optimize data ingestion and storage.
-* **Analysis (Damian/Rodney):** Implementing core analytical scripts with a focus on time complexity optimization ($O(n \log n)$ or better).
-* **Validation (Ankita/Ivan):** Cross-verifying script outputs via Excel and unit testing to ensure data integrity.
+---
 
-## 📁 Repository Structure
-* `/data`: Data schema definitions (Raw data is .gitignored for size).
-* `/scripts`: Finalized analysis and cleaning scripts.
-* `/viz`: Data visualizations and graphical assets.
-* `/presentation`: Final slide deck and executive summary.
+## 👥 The Team
+| Name | Primary Focus | Technical Stack |
+| :--- | :--- | :--- |
+| **Curtis** | Technical PM / Lead Architect | C++, Java II, Data Structures & Algorithms |
+| **Rodney** | Team Lead / Admin | C++, Python |
+| **Damian** | Core Developer | C++, Java II, Python |
+| **Ankita** | Quality Assurance & Testing | C++, Java I |
+| **Ivan** | [Awaiting Role Confirmation] | [TBD] |
+
+---
+
+## 📂 Repository Structure
+* 📁 **`/data`**: Data dictionaries and small samples (managed via `.gitkeep`).
+* 📁 **`/scripts`**: Python and Java source code for analysis and cleaning.
+* 📁 **`/docs`**: Competition rules, FAQ, and presentation drafts.
+* 📁 **`/output`**: Final visualizations and cleaned datasets.
+
+---
+
+## 🛠 Technical Standards
+To ensure we place well, we are adhering to the following "Efficiency First" guidelines:
+1.  **Complexity Management:** Prioritize $O(n)$ or $O(n \log n)$ logic. Avoid nested loops on large datasets to prevent memory overflow.
+2.  **Version Control:** All code must be pushed to individual branches before being merged into `main`.
+3.  **Data Integrity:** Every transformation must be documented and verified by the QA lead (Ankita).
+
+---
+
+## 📅 Upcoming Roadmap
+* **Mar 13:** Registration Completed.
+* **Mar 15:** Environment "Dry Run" & Folder Verification.
+* **Mar 20:** Practice session with mock datasets.
+* **Mar 27:** **Competition Kick-off.**
+
+---
+> *“In God we trust; all others must bring data.” – W. Edwards Deming*
