@@ -1,4 +1,4 @@
-# Team DataX (or 404) | DataFest 2026
+# 404 | DataFest 2026
 
 ## 🚀 Project Overview
 This repository serves as the central hub for our 48-hour data sprint. We focus on transforming complex, large-scale datasets into actionable insights through efficient algorithmic design and robust data architecture.
