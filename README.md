@@ -1,22 +1,23 @@
-# Team DataX | DataFest 2026
+# Team DataX (or 404) | DataFest 2026
 
 ## 🚀 Project Overview
-This repository contains the data analysis, scripts, and visualizations for Team DataX's entry in the 2026 DataFest competition. Our goal is to derive actionable insights from the provided dataset using efficient algorithmic logic and rigorous testing.
+This repository serves as the central hub for our 48-hour data sprint. We focus on transforming complex, large-scale datasets into actionable insights through efficient algorithmic design and robust data architecture.
 
-## 👥 The Team
-* **Rodney (Team Lead):** Project Administration & Python/C++ Development.
-* **Curtis (Technical PM):** Algorithm Design, Efficiency Logic (DSA), & Data Cleaning.
-* **Damian:** Core Scripting (Java/Python/C++).
-* **Ankita:** Quality Assurance, Logic Testing, & Documentation.
-* **Ivan:** [Role TBD]
+## 👥 The Team & Skillsets
+* **Rodney (Team Lead):** Administration, C++, & Python Development.
+* **Curtis (Technical PM):** Algorithm Design, Efficiency Logic (CIS 2207 - DSA), & Roadmap Management.
+* **Damian:** Core Scripting (Java II, C++, Python).
+* **Ivan:** Data Architecture, Database Management, & Excel Validation (Microsoft Certified).
+* **Ankita:** Quality Assurance, Logic Testing (C++, Java I), & Documentation.
 
-## 🛠 Tech Stack
-* **Languages:** Python, Java, C++
-* **Key Focus:** Efficiency via Data Structures & Algorithms (CIS 2207 standards).
-* **Tools:** GitHub (Version Control), Slack/Discord (Comms).
+## 🛠 Technical Strategy
+To ensure a high-placing entry, our workflow is divided by technical specialty:
+* **Preprocessing (Curtis/Ivan):** Utilizing Database Management and Data Structures to optimize data ingestion and storage.
+* **Analysis (Damian/Rodney):** Implementing core analytical scripts with a focus on time complexity optimization ($O(n \log n)$ or better).
+* **Validation (Ankita/Ivan):** Cross-verifying script outputs via Excel and unit testing to ensure data integrity.
 
 ## 📁 Repository Structure
-* `/data`: (Note: Large raw data files are git-ignored; scripts for loading are included).
-* `/scripts`: Final, tested versions of analysis scripts.
-* `/visualizations`: Final charts and graphs for the presentation.
-* `/docs`: Final presentation slides and project documentation.
+* `/data`: Data schema definitions (Raw data is .gitignored for size).
+* `/scripts`: Finalized analysis and cleaning scripts.
+* `/viz`: Data visualizations and graphical assets.
+* `/presentation`: Final slide deck and executive summary.
