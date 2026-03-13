@@ -24,7 +24,7 @@ Welcome to the official repository for **Project 404**. This project is dedicate
 
 ## 📂 Repository Structure
 * 📁 **`/data`**: Data dictionaries and small samples (managed via `.gitkeep`).
-* 📁 **`/scripts`**: Python and Java source code for analysis and cleaning.
+* 📁 **`/scripts`**: Python source code for analysis and cleaning.
 * 📁 **`/docs`**: Competition rules, FAQ, and presentation drafts.
 * 📁 **`/output`**: Final visualizations and cleaned datasets.
 
@@ -45,4 +45,4 @@ To ensure we place well, we are adhering to the following "Efficiency First" gui
 * **Mar 27:** **Competition Kick-off.**
 
 ---
-> *“In God we trust; all others must bring data.” – W. Edwards Deming*
+> *404 - Doesn't mean we lost our dataset file*
