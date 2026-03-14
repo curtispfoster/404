@@ -2,12 +2,8 @@
 
 Welcome to the official repository for **404**. This project is dedicated to high-efficiency data analysis and discovery for the 2026 DataFest competition.
 
-## 🚩 Current Milestone: 
-**Status:** ✅ CONFIRMED
-
-~~**Confirmation:** Submitted March 13, 2026.~~
-
-**Next Goal:** Environment "Dry Run" & Folder Verification.
+## 🚩 Current Milestone: Environment "Dry Run" & Folder Verification.
+**Status:** PENDING
 
 ## 📅 Upcoming Roadmap*
 
