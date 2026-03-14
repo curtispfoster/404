@@ -15,7 +15,7 @@ Here's the current team roster for the DataFest project, including backgrounds, 
 
 | Name    | Background / Stack                          | Competition Role          |
 |---------|---------------------------------------------|---------------------------|
-| Curtis  | Technical PM / Lead Architect               | [TBD]                     |
+| Curtis  | C++, Java II, JavaScript, DB Management     | [TBD]                     |
 | Rodney  | C++, Python                                 | [TBD]                     |
 | Damian  | C++, Java II, Python                        | [TBD]                     |
 | Ankita  | C++, Java I                                 | [TBD]                     |
