@@ -45,7 +45,7 @@ To ensure we place well, we are adhering to the following "Efficiency First" gui
 
 ---
 
-## 📅 Upcoming Roadmap (This flexable just here a placeholders)
+## 📅 Upcoming Roadmap (This flexable just here as placeholders)
 * **Mar 13:** Registration Completed.
 * **Mar 15:** Environment "Dry Run" & Folder Verification.
 * **Mar 20:** Practice session with mock datasets.
