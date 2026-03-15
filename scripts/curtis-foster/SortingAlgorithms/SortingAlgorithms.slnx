@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SortingAlgorithms/SortingAlgorithms.vcxproj" Id="f5e739d7-2667-47bc-82b0-b11b37862d31" />
+</Solution>

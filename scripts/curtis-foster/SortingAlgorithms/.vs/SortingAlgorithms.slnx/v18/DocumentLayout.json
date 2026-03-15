@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\curti\\OneDrive\\Documents\\C\u002B\u002B 2026\\Source\\SortingAlgorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5E739D7-2667-47BC-82B0-B11B37862D31}|SortingAlgorithms\\SortingAlgorithms.vcxproj|C:\\Users\\curti\\OneDrive\\Documents\\C\u002B\u002B 2026\\Source\\SortingAlgorithms\\SortingAlgorithms\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5E739D7-2667-47BC-82B0-B11B37862D31}|SortingAlgorithms\\SortingAlgorithms.vcxproj|solutionrelative:SortingAlgorithms\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\curti\\OneDrive\\Documents\\C\u002B\u002B 2026\\Source\\SortingAlgorithms\\SortingAlgorithms\\Source.cpp",
+              "RelativeDocumentMoniker": "SortingAlgorithms\\Source.cpp",
+              "ToolTip": "C:\\Users\\curti\\OneDrive\\Documents\\C\u002B\u002B 2026\\Source\\SortingAlgorithms\\SortingAlgorithms\\Source.cpp",
+              "RelativeToolTip": "SortingAlgorithms\\Source.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-18T19:55:16.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
