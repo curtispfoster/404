@@ -3,7 +3,7 @@
 Welcome to the official repository for **404**. This project is dedicated to high-efficiency data analysis and discovery for the 2026 DataFest competition.
 
 ## 🚩 Current Milestone: Environment "Dry Run" & Folder Verification.
-**Status:** PENDING
+**Status:** PENDING 
 
 ## 📅 Upcoming Roadmap*
 
@@ -23,7 +23,7 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 
 # 👥 Project 404 Team Roster
 
-| Name | Background / Stack | Competition Role |
+| Name | Background / Stack | Roles* |
 | :--- | :--- | :--- |
 | **Curtis** | C++, Java II, DS&A, DB Management | **L.O.G.I.C.** (Lead Architect) |
 | **Rodney** | C++, Python | [Pending - Friday] |
@@ -31,7 +31,7 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 | **Ankita** | C++, Java I | [Pending - Friday] |
 | **Ivan** | C++, SQL/DB Management, Excel | [Pending - Friday] |
 
-
+> *See ROLES.md 
 ---
 
 ## 🔑 Role Acronyms (Reference)
@@ -65,23 +65,12 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 * **N**etwork with Faculty
 * **C**ommitment Management
 
----
 
-## 🛠️ GitHub Workflow Reminder
-
-1. `git pull origin main` (Sync before you start)
-2. `git checkout -b feature-[your-task]` (Work in your own branch)
-3. `git add .`
-4. `git commit -m "brief description of update"`
-5. `git push origin feature-[your-task]`
-6. **Open a Pull Request (PR)** on GitHub for review.
-
-> **⚠️ Important:** Keep all scripts inside your designated folders: `/scripts/[name]/` to avoid merge conflicts.
 
 ## 📂 Repository Structure
-* 📁 **`/data`**: Data dictionaries and small samples (managed via `.gitkeep`).
+* 📁 **`/docs`**: Datafest Info, Sample Timeline, and Sorting Algorithms
+* 📁 **`/sandbox`**: Data dictionaries and small samples (managed via `.gitkeep`).
 * 📁 **`/scripts`**: Python source code for analysis and cleaning.
-* 📁 **`/docs`**: Datafest Info and Sample Timeline
 
 ---
 > *404 - Doesn't mean we lost our dataset file...*
