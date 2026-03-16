@@ -11,8 +11,6 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 
 **Mar 16:** Environment "Dry Run" & Folder Verification.
 
-**Mar 18:** Check-in with everyones environments & confirm roles.
-
 **Mar 20:** Practice session with mock datasets.**
 
 **Mar 27:** **Competition Kick-off.**
