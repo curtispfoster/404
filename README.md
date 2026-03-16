@@ -31,10 +31,6 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 | **Ankita** | C++, Java I | [Pending - Friday] |
 | **Ivan** | C++, SQL/DB Management, Excel | [Pending - Friday] |
 
----
-
-## 📢 Team Contribution Note
-Feel free to update this table by creating a **Pull Request (PR)** as roles solidify or if anyone wants to claim specific pieces (e.g., "I'll take data cleaning & null handling", "I'll handle visualizations in matplotlib/seaborn", etc.).
 
 ---
 
