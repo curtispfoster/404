@@ -1,4 +1,4 @@
-# 🚀 404 | DataFest 2026
+# Team🚀 404 | DataFest 2026
 
 Welcome to the official repository for **404**. This project is dedicated to high-efficiency data analysis and discovery for the 2026 DataFest competition.
 
