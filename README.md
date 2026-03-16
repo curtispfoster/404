@@ -23,7 +23,7 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 
 # 👥 Project 404 Team Roster
 
-| Name | Background / Stack | Competition Role |
+| Name | Background / Stack | Roles* |
 | :--- | :--- | :--- |
 | **Curtis** | C++, Java II, DS&A, DB Management | **L.O.G.I.C.** (Lead Architect) |
 | **Rodney** | C++, Python | [Pending - Friday] |
@@ -31,7 +31,7 @@ Welcome to the official repository for **404**. This project is dedicated to hig
 | **Ankita** | C++, Java I | [Pending - Friday] |
 | **Ivan** | C++, SQL/DB Management, Excel | [Pending - Friday] |
 
-
+> *See ROLES.md 
 ---
 
 ## 🔑 Role Acronyms (Reference)
