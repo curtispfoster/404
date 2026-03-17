@@ -1,78 +1,49 @@
-# 🚀Team 404 | DataFest 2026
+# 🚀 Team 404 | DataFest 2026
 
-Welcome to the official repository for **404**. This project is dedicated to high-efficiency data analysis and discovery for the 2026 DataFest competition.
+Welcome to the official repository for **Team 404**!  
+This project focuses on high-efficiency data analysis and discovery for the 2026 ASA DataFest competition.
 
-## 🚩 Current Milestone: Environment "Dry Run" & Folder Verification.
-**Status:** PENDING 
+## Announcements
+Please take a moment to check the **OneDrive** channel on Discord.  
+There’s a short video walkthrough on how to connect your environment to GitHub — if you haven’t done this yet, please watch it now.
 
-## 📅 Upcoming Roadmap*
+Also, review the **[ROLES](https://github.com/curtispfoster/404/blob/team-branch/ROLES.md)** document.  
+Once you've read it, **update the team roster** in this README by adding or correcting the information next to your name.
 
-~~**Mar 13:** Registration~~
+## 🚩 Current Milestone
+**Check-in with everyone's environments & confirm roles.**  
+**Status:** PENDING
 
-**Mar 16:** Environment "Dry Run" & Folder Verification.
+## 📅 Upcoming Roadmap
+- ~~**Mar 13:** Registration~~ ✅
+- ~~**Mar 16:** Environment "Dry Run" & Folder Verification~~ ✅
+- **Mar 18:** Check-in with everyone's environments & confirm roles.
+- **Mar 20:** Practice session with mock datasets.
+- **Mar 27:** **Competition Kick-off.**
 
-**Mar 18:** Check-in with everyones environments & confirm roles.
+> *Note: Dates are flexible placeholders to help us plan ahead. We can adjust as needed.*
 
-**Mar 20:** Practice session with mock datasets.**
+> **Goal:** Practice with smaller, commonly seen dataset types so we're not caught off guard by surprises during the real event.
 
-**Mar 27:** **Competition Kick-off.**
+> *404 — Doesn't mean we lost our dataset file... 😏*
 
->*The dates are flexable just here as placeholders so that we can start think about them.
->
->**I would like to do smaller datasets that are the most common so that we are not taken by surpise.
+## 👥 Project 404 Team Roster
 
----
+| Name     | Background / Stack                  | [Roles](https://github.com/curtispfoster/404/blob/team-branch/ROLES.md)     |
+|----------|-------------------------------------|-----------------------------------------------------------------------------|
+| **Curtis** | C++, Java II, DS&A, DB Management  | **L.O.G.I.C.** (Lead Architect)                                            |
+| **Rodney** | C++, Python                        | [Pending - Friday]                                                         |
+| **Damian** | C++, Java II, Python               | [Pending - Friday]                                                         |
+| **Ankita** | C++, Java I                        | [Pending - Friday]                                                         |
+| **Ivan**   | C++, SQL/DB Management, Excel      | [Pending - Friday]                                                         |
 
-# 👥 Project 404 Team Roster
-
-| Name | Background / Stack | Roles* |
-| :--- | :--- | :--- |
-| **Curtis** | C++, Java II, DS&A, DB Management | **L.O.G.I.C.** (Lead Architect) |
-| **Rodney** | C++, Python | [Pending - Friday] |
-| **Damian** | C++, Java II, Python | [Pending - Friday] |
-| **Ankita** | C++, Java I | [Pending - Friday] |
-| **Ivan** | C++, SQL/DB Management, Excel | [Pending - Friday] |
-
-> *See ROLES.md 
----
-
-## 🔑 Role Acronyms (Reference)
-
-### 🏛️ L.O.G.I.C. (Curtis)
-**Algorithmic Architect**
-* **L**oop Optimization
-* **O**verhead Reduction
-* **G**uide Efficiency
-* **I**ntegration Review
-* **C**omplexity Check
-
-### 🚰 F.L.O.W.
-**Data Lead**
-* **F**riday Access
-* **L**oading & Links
-* **O**rganize Folders
-* **W**orkflow Setup
-
-### 🛡️ S.C.A.N.
-**Quality Assurance**
-* **S**chema Validation
-* **C**leanliness Audit
-* **A**ccuracy Check
-* **N**ote Progress
-
-### 🎤 S.Y.N.C.
-**Communications**
-* **S**lide Strategy (3-slide deck)
-* **Y**outube/Video Prep (5-min max)
-* **N**etwork with Faculty
-* **C**ommitment Management
-
-
+*Everyone: Please claim/update your role(s) in ROLES.md and roster here by Friday!*
 
 ## 📂 Repository Structure
-* 📁 **`/docs`**: Datafest Info, Sample Timeline, and Sorting Algorithms
-* 📁 **`/sandbox`**: Data dictionaries and small samples (managed via `.gitkeep`).
-* 📁 **`/scripts`**: Python source code for analysis and cleaning.
+- 📁 **`/docs`**: DataFest info, sample timelines, sorting algorithms, etc.
+- 📁 **`/sandbox`**: Data dictionaries and small sample files (kept alive with `.gitkeep`).
+- 📁 **`/scripts`**: Python source code for data cleaning, analysis, and exploration.
 
 ---
-> *404 - Doesn't mean we lost our dataset file...*
+
+Let's crush this competition — happy coding! 🚀
