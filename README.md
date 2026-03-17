@@ -7,7 +7,7 @@ This project focuses on high-efficiency data analysis and discovery for the 2026
 Please take a moment to check the **OneDrive** channel on Discord.  
 There’s a short video walkthrough on how to connect your environment to GitHub — if you haven’t done this yet, please watch it now.
 
-Also, review the **[ROLES](https://github.com/curtispfoster/404/blob/team-branch/ROLES.md)** document.  
+Also, review the **[ROLES](https://github.com/curtispfoster/404/blob/main/ROLES.md)** document.  
 Once you've read it, **update the team roster** in this README by adding or correcting the information next to your name.
 
 ## 🚩 Current Milestone
@@ -29,7 +29,7 @@ Once you've read it, **update the team roster** in this README by adding or corr
 
 ## 👥 Project 404 Team Roster
 
-| Name     | Background / Stack                  | [Roles](https://github.com/curtispfoster/404/blob/team-branch/ROLES.md)     |
+| Name     | Background / Stack                  | [Roles](https://github.com/curtispfoster/404/blob/main/ROLES.md)     |
 |----------|-------------------------------------|-----------------------------------------------------------------------------|
 | **Curtis** | C++, Java II, DS&A, DB Management  | **L.O.G.I.C.** (Lead Architect)                                            |
 | **Rodney** | C++, Python                        | Team Lead                                                                  |
