@@ -1,3 +1,2 @@
-# Ignore the execution counter file
-exec_count.txt
-stats.json
+# Ignore local execution metadata
+metadata.json
