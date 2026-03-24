@@ -1,1 +1,3 @@
-
+# Ignore the execution counter file
+exec_count.txt
+stats.json
