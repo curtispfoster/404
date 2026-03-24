@@ -1,6 +1,5 @@
 # Python
 __pycache__/
-*.py[cod]
 *$py.class
 *.so
 .Python
@@ -21,11 +20,8 @@ wheels/
 *.egg
 MANIFEST
 
-# Jupyter Notebook
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/
-*.ipynb_checkpoints
-*-checkpoint.ipynb
+
+
 
 # IPython
 profile_default/
@@ -39,7 +35,6 @@ env/
 *.env  # If you have API keys/secrets
 
 # VS Code
-.vscode/
 !.vscode/settings.json  # Optional: keep shared settings, ignore personal ones
 !.vscode/tasks.json
 !.vscode/launch.json
