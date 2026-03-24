@@ -1,2 +1,4 @@
-# Ignore local execution metadata
-metadata.json
+# Ignore large data files and VS Code settings
+*.csv
+.vscode/
+.gitattributes
