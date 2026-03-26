@@ -33,7 +33,7 @@ Once you've read it, **update the team roster** in this README by adding or corr
 |----------|-------------------------------------|-----------------------------------------------------------------------------|
 | **Curtis** | C++, Java II, DS&A, DB Management  | **L.O.G.I.C.** (Lead Architect)                                            |
 | **Rodney** | C++, Python                        | Team Lead                                                                  |
-| **Damian** | C++, Java II, Python               | Visualization | Data Analysis (Developer)                                  |
+| **Damian** | C++, Java II, Python               | Developer                                                                  |
 | **Ankita** | C++, Java I                        | [Pending - Friday]                                                         |
 | **Ivan**   | C++, SQL/DB Management, Excel      | [Pending - Friday]                                                         |
 
