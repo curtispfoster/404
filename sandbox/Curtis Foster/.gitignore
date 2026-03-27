@@ -1,1 +1,6 @@
+# Ignore all CSV files in the repository
+*.csv
+
+# Ignore all JSON files in the repository
+*.json
 
