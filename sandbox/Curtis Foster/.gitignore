@@ -4,3 +4,4 @@
 # Ignore all JSON files in the repository
 *.json
 
+.vscode/
