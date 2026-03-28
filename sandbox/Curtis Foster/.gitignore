@@ -4,8 +4,21 @@
 # Ignore all JSON files in the repository
 *.json
 
+# Visual Studio temporary files - MUST IGNORE
 .vs/
 .vscode/
+
+# Binaries and build output
 bin/
 obj/
-*.slnx   # or *.sln — keep only one
+
+# Solution file - keep only one
+*.sln
+*.slnx   # ← If you are using .slnx, keep this and delete the old .sln later
+
+# Other temp files
+*.user
+*.suo
+*.vsconfig
+*.log
+*.tmp
