@@ -4,21 +4,27 @@
 # Ignore all JSON files in the repository
 *.json
 
-# Visual Studio temporary files - MUST IGNORE
+# Visual Studio / .NET
 .vs/
 .vscode/
-
-# Binaries and build output
 bin/
 obj/
 
-# Solution file - keep only one
+# Solution files - keep only ONE
 *.sln
-*.slnx   # ← If you are using .slnx, keep this and delete the old .sln later
+*.slnx
 
-# Other temp files
+# User-specific files
 *.user
 *.suo
 *.vsconfig
+
+# Temporary files
 *.log
 *.tmp
+*.cache
+*.vsidx   # explicitly ignore these index files
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
