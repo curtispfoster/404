@@ -4,4 +4,8 @@
 # Ignore all JSON files in the repository
 *.json
 
+.vs/
 .vscode/
+bin/
+obj/
+*.slnx   # or *.sln — keep only one
