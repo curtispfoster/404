@@ -1,8 +1,8 @@
-//Auther name: Ankita Ghising
-//Date : 2024-06-17
+#Auther name: Ankita Ghising
+#Date : 2024-06-17
 import os
 
-//Handle thread settings for performance
+#Handle thread settings for performance
 os.environ.setdefault("OMP_NUM_THREADS", "1")
 os.environ.setdefault("OPENBLAS_NUM_THREADS", "1")
 os.environ.setdefault("MKL_NUM_THREADS", "1")
@@ -13,7 +13,7 @@ from pathlib import Path
 
 CHUNK_ROWS = int(os.environ.get("DEPARTMENTS_CHUNK_ROWS", "25000"))
 
-//REad CSV file path
+#Read CSV file path
 BASE = Path(__file__).resolve().parent.parent
 RAW_DIR = BASE / "data" / "raw"
 _RAW = (RAW_DIR / "departments.csv", RAW_DIR / "departments_sample.csv")
