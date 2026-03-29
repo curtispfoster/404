@@ -1,0 +1,122 @@
+CSV Headers Summary
+==================================================
+
+Data Folder: c:\Users\curti\source\repos\404\sandbox\Curtis Foster\Datafest\Data
+Total unique CSV files: 7
+
+File: departments.csv
+Columns: 9
+Headers:
+   1. DepartmentKey
+   2. Address
+   3. City
+   4. County
+   5. DepartmentName
+   6. DepartmentSpecialty
+   7. DepartmentType
+   8. PostalCode
+   9. CensusTract
+
+--------------------------------------------------
+
+File: diagnosis.csv
+Columns: 5
+Headers:
+   1. DiagnosisKey
+   2. GroupName
+   3. GroupCode
+   4. DiagnosisName
+   5. DiagnosisValue
+
+--------------------------------------------------
+
+File: encounters.csv
+Columns: 31
+Headers:
+   1. Date
+   2. AdmissionInstant
+   3. AdmitYear
+   4. AdmitMonth
+   5. AdmitDay
+   6. AdmitHour
+   7. AdmitMinute
+   8. AdmissionSource
+   9. AdmissionType
+  10. DischargeInstant
+  11. DischargeYear
+  12. DischargeMonth
+  13. DischargeDay
+  14. DischargeHour
+  15. DischargeMinute
+  16. EncounterKey
+  17. PatientDurableKey
+  18. Type
+  19. VisitType
+  20. VisitTypeDescription
+  21. ProviderDurableKey
+  22. AttendingProviderDurableKey
+  23. DischargeProviderDurableKey
+  24. DepartmentKey
+  25. PrimaryDiagnosisKey
+  26. IsEdVisit
+  27. IsHospitalAdmission
+  28. IsHospitalOutpatientVisit
+  29. IsInpatientAdmission
+  30. IsObservation
+  31. IsOutpatientFaceToFaceVisit
+
+--------------------------------------------------
+
+File: patients.csv
+Columns: 12
+Headers:
+   1. CensusBlockGroupFipsCode
+   2. DurableKey
+   3. FirstRace
+   4. MaritalStatus
+   5. MyChartStatus
+   6. OmbEthnicity
+   7. OmbRace
+   8. SexAssignedAtBirth
+   9. SexualOrientation
+  10. SmokingStatus
+  11. VitalStatus
+  12. PatientBirthYearBin
+
+--------------------------------------------------
+
+File: providers.csv
+Columns: 8
+Headers:
+   1. DurableKey
+   2. ClinicianTitle
+   3. OfficeAddress
+   4. OfficeCity
+   5. OfficePostalCode
+   6. PrimaryDepartment
+   7. PrimarySpecialty
+   8. Type
+
+--------------------------------------------------
+
+File: social_determinants.csv
+Columns: 5
+Headers:
+   1. DisplayName
+   2. AnswerText
+   3. EncounterKey
+   4. PatientDurableKey
+   5. Domain
+
+--------------------------------------------------
+
+File: tigercensuscodes.csv
+Columns: 4
+Headers:
+   1. GEOID
+   2. PopulationValue
+   3. CENTLAT
+   4. CENTLON
+
+--------------------------------------------------
+
