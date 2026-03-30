@@ -19,7 +19,7 @@ Once you've read it, **update the team roster** in this README by adding or corr
 - ~~**Mar 16:** Environment "Dry Run" & Folder Verification~~ ✅
 - ~~**Mar 18:** Check-in with everyone's environments & confirm roles.~~
 - ~~**Mar 20:** Practice session with mock datasets.~~
-- **Mar 27:** **Competition Kick-off.**
+- ~~**Mar 27:** **Competition Kick-off.**~~
 
 > *Note: Dates are flexible placeholders to help us plan ahead. We can adjust as needed.*
 
